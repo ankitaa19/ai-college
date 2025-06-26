@@ -28,3 +28,20 @@ dist-ssr
 node_modules/
 .env
 .env
+
+# dependencies
+node_modules
+
+# environment variables
+.env
+
+# build outputs
+dist
+build
+
+# IDE and system files
+.vscode
+.DS_Store
+
+# bun
+bun.lockb
