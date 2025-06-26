@@ -1,3 +1,6 @@
+# Ignore API key file
+.env
+openai_key.ts
 # Logs
 logs
 *.log
@@ -23,3 +26,4 @@ dist-ssr
 *.sln
 *.sw?
 node_modules/
+.env
